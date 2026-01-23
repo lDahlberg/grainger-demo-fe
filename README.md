@@ -1,3 +1,12 @@
+# Overview
+
+Unstyled basic React app using Vite for Grainger demo. Uses hardcoded values to back end but would require environment variables or use of redirects in production. 
+
+To run, ensure that node / npm are installed.
+
+```npm i```
+```npm run dev```
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
